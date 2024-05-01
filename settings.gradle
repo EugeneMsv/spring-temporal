@@ -1,0 +1,5 @@
+//https://docs.gradle.org/current/userguide/organizing_gradle_projects.html#sec:settings_file
+rootProject.name = 'spring-temporal'
+include 'domain'
+include 'service'
+

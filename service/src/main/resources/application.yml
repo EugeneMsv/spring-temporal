@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-temporal
+
+server:
+  port:
+    8080
